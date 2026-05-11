@@ -10,10 +10,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cotty2&theme=aura&hide_border=true&include_all_commits=true&count_private=true&PAT_1" width="55%" /> </br>
-</p>
-  
+
 ![snake gif](https://github.com/Cotty2/Cotty2/blob/output/github-snake-dark.svg)
 
 </div>
